@@ -6,7 +6,7 @@ Status: Research Prototype
 
 Tech Stack: Python, LangGraph, LangChain, Streamlit, Google Gemini, OpenAI GPT-4o, Meta Llama 3
 
-Project Overview
+Project Overview:
 
 Hexamind is a stateful multi-agent system designed to orchestrate heterogeneous Large Language Models (LLMs) in a complex strategic environment (Chinese Checkers).
 
