@@ -1,4 +1,4 @@
-Project Hexamind: Multi-Agent Neuro-Symbolic Cognitive Architecture
+#Project Hexamind: Multi-Agent Neuro-Symbolic Cognitive Architecture#
 
 Author: Chetan Vyas
 
