@@ -1,0 +1,21 @@
+# --- Python Environment ---
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Environment Variables (CRITICAL) ---
+.env
+.env.local
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+
+# --- Streamlit ---
+.streamlit/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
